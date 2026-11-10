@@ -1,0 +1,6 @@
+{
+  "name": "Arpeggio Music Therapy",
+  "description": "New Brunswick's leading clinical music therapy practice. Professional clinical services, consultations, education, and internship opportunities founded by Elizabeth Eldridge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
